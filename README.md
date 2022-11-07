@@ -6,7 +6,7 @@
 
 
 ### About me
-Developer | Data Analyst | Pentester Web
+Security | Desenvolvedor | Analista de Dados | JAVA | SQL | PL/SQL | ORACLE | Shell Script | Python | Linux | Red Hat | CIS V8
 
 I am interested in several subjects, such as programming, security, hacking, philosophy.
 
